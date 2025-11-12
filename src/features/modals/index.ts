@@ -1,4 +1,5 @@
 export { DownloadModal } from "./DownloadModal";
+export { EditModal } from "./EditModal";
 export { ImportModal } from "./ImportModal";
 export { NodeModal } from "./NodeModal";
 export { JWTModal } from "./JWTModal";
